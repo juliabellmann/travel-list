@@ -1,7 +1,11 @@
-# über den folgenden Link ist die App zu testen
-https://travel-list-orpin.vercel.app/
+# über den folgenden Link ist die App zu testen:
+-> https://travel-list-orpin.vercel.app/
 
+---
+### Vorschau:
+![alt text](image.png)
 
+---
 
 ## Getting Started with Create React App
 
